@@ -65,7 +65,6 @@ The script automatically categorizes and sorts the following formats into dedica
  	git clone https://github.com/yourusername/automated-file-sorter.git
 2. Navigate to the project directory: 
  	cd automated-file-sorter
-3. Run the script: 
-
-&#x09;python file\_sorter.py
+3. Run the script:
+   python file\_sorter.py
 
