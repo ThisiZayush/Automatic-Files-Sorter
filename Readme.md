@@ -62,7 +62,7 @@ The script automatically categorizes and sorts the following formats into dedica
 
 
 1. Clone this repository:
- 	git clone https://github.com/yourusername/automated-file-sorter.git
+ 	git clone [https://github.com/yourusername/automated-file-sorter.git](https://github.com/ThisiZayush/Automatic-Files-Sorter.git)
 2. Navigate to the project directory: 
  	cd automated-file-sorter
 3. Run the script:
